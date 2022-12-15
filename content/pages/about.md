@@ -2,7 +2,7 @@
 title: 'About me'
 menu:
   main:
-    name: "Ariel Hernandez Rojas"
+    name: "Ariel HR"
 ---
 
 ## Who am I
